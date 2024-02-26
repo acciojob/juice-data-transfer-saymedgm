@@ -14,18 +14,14 @@ public class JuiceDTO {
     }
 
     public String getName() {
-    	//your code goes here
         return name;
     }
 
     public List<String> getIngredients() {
-    	//your code goes here
         return ingredients;
     }
 
     public double getPrice() {
-    	//your code goes here
         return price;
     }
 }
-
